@@ -8,9 +8,7 @@
 1.1. Для подключения библиотеки к своей веб-странице, вам нужно создать документ с расширением .html и заполнить следующей разметкой: 
 "<!DOCTYPE html>
 <html lang="ru" id = "html">
-
-
-    <script type="text/javascript" charset="utf-8" src='https://html-css-js-node.github.io/js-module-driver-html/mdh-tw-2.js'>
+<script type="text/javascript" charset="utf-8" src='https://html-css-js-node.github.io/js-module-driver-html/mdh-tw-2.js'>
       
     </script>
 
@@ -25,4 +23,5 @@
     </script-->
 
 </html>"
+1.2. А также, готовый html-документ с подключенной библиотекой,<a href = "https://github.com/Html-Css-Js-Node/time-and-weather">можно посмотреть и скачать, нажав здесь.</a>
 
