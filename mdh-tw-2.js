@@ -1,18 +1,10 @@
-let header = document.getElementById('header').innerHTML = `
-    <meta charset="UTF-8">
+let heade = document.getElementById('heade');
+head.innerHTML = `<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="theme-color" content="rgb(97,101,203)" />
     <title>Веб - приложение: ПОГОДА от Chipset-net-web</title>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-JSX5ZV949E"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-JSX5ZV949E');
-</script>
+    
     <link rel="icon" href="favicons/icon-16.png" sizes="16x16">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <!--link rel="stylesheet" href="style.css"-->
