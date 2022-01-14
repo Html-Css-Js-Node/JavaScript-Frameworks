@@ -4,6 +4,6 @@
 2. Автор: Берлин Андрей;
 3. Дата: 13.01.2022 г.;
 ## И так библиотеки:
-1. <a href = "https://github.com/Html-Css-Js-Node/js-module-driver-html/blob/main/mdh-tw-2.js">Библиотека Time & Weather</a>
-
+1. Библиотека Time & Weather,<a href = "https://github.com/Html-Css-Js-Node/js-module-driver-html/blob/main/mdh-tw-2.js">чтобы посмотреть и изучить библиотеку, нажмите здесь</a>
+1.1. Для подключения библиотеки к своей веб-странице, вам нужно создать документ с расширением .html и заполнить следующей разметкой: 
 
