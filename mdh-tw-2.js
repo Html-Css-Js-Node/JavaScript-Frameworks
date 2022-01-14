@@ -674,7 +674,7 @@ const TEXTS = {
         
  let footer = document.getElementById('footer');
  footer.innerHTML = `<p>С уважением, Берлин Андрей. ©2020-2025</p><br>
-<p>Это веб-приложение, является примером реализации работы JavaScript-библиотеки: mdh-tw-2.js. Подробности о библиотеке: <a href="https://html-css-js-node.github.io/js-module-driver-html/">нажмите здесь.</a></p>`;
+<p>P.S. Это веб-приложение, является примером реализации работы JavaScript-библиотеки: mdh-tw-2.js. Подробности о библиотеке: <a href="https://html-css-js-node.github.io/js-module-driver-html/">нажмите здесь.</a></p>`;
 
 let style = document.getElementById('style');
 style.innerHTML=` @keyframes pulse {
