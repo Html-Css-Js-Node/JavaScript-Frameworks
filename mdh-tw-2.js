@@ -1,4 +1,4 @@
-let html = document.getElementById('html').innerHTML = `<head>
+let header = document.getElementById('header').innerHTML = `
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -16,13 +16,7 @@ let html = document.getElementById('html').innerHTML = `<head>
     <link rel="icon" href="favicons/icon-16.png" sizes="16x16">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <!--link rel="stylesheet" href="style.css"-->
-    <style id = "style"></style>
-</head>
-<body id="body" onLoad="initClock()">
-<footer>
-        <h2>всего хорошего!</h2>
-</footer>
-</body>`;
+    <style id = "style"></style>`;
 
 let body = document.getElementById('body');
 body.innerHTML = `<header id="header"></header> <section id="section"></section><footer id="footer"></footer>`;
