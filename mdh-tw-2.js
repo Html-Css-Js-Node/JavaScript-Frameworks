@@ -1,3 +1,8 @@
+//JavaScript-framework
+/*Этот framework генерирует в html документе
+ текущее время и погоду*/
+
+
 let head = document.getElementById('head');
 head.innerHTML = `<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -674,7 +679,7 @@ const TEXTS = {
         
  let footer = document.getElementById('footer');
  footer.innerHTML = `<p>С уважением, Берлин Андрей. ©2020-2025</p><br>
-<p>P.S. Это веб-приложение, является примером реализации работы JavaScript-библиотеки: mdh-tw-2.js. Подробности о библиотеке: <a href="https://html-css-js-node.github.io/js-module-driver-html/">нажмите здесь.</a></p>`;
+<p>P.S. Это веб-приложение, является примером работы JavaScript-framework: mdh-tw-2.js. Подробности о framework: <a href="https://html-css-js-node.github.io/js-module-driver-html/">нажмите здесь.</a></p>`;
 
 let style = document.getElementById('style');
 style.innerHTML=` @keyframes pulse {
