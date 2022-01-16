@@ -1206,7 +1206,7 @@ style.innerHTML=`#t {
         h = 2 * cW.gJ(new Uint16Array(i.buffer, 44), s),
         e = new Uint32Array(i.buffer, 0, 44);
       e[0] = 1179011410, e[1] = h + 36, e[2] = 1163280727, e[3] = 544501094, e[4] = 16, e[5] = 65537, e[6] = 44100, e[7] = 88200, e[8] = 1048578, e[9] = 1635017060, e[10] = h, h += 44;
-      for (var a = 0, r = "ЗABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/",l = "data:audio/wav;base64,"; a < h; a += 3) {
+      for (var a = 0, r = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/",l = "data:audio/wav;base64,"; a < h; a += 3) {
         var _ = i[a] << 16 | i[a + 1] << 8 | i[a + 2];
         l += r[_ >> 18] + r[_ >> 12 & 63] + r[_ >> 6 & 63] + r[63 & _]
       }
@@ -1287,7 +1287,7 @@ style.innerHTML=`#t {
   }
   class hw {
     constructor() {
-      G = this, U = new gx, V = new hs, G.eR(), G.S = 0, G.bZ = _E("stars wars"), G.c$ = _E("power by JavaScript-framework"), G.cm = _E("press enter to send a ship"), G.eU = G.cg = 50, G.cf = G.eY = 100, G.ci = 0, G.dl = 1, G.eZ = 0, G.cr = 1, G.hy = 1, G.ff = 1, G.ct = "#fff"
+      G = this, U = new gx, V = new hs, G.eR(), G.S = 0, G.bZ = _E("stars wars"), G.c$ = _E("driver by js"), G.cm = _E("press enter to send a ship"), G.eU = G.cg = 50, G.cf = G.eY = 100, G.ci = 0, G.dl = 1, G.eZ = 0, G.cr = 1, G.hy = 1, G.ff = 1, G.ct = "#fff"
     }
     bQ(t) {
       G.O && G.O.hh(), G.O = t, G.df = 20, G._l(), t && (t.hd = (t => G.bQ(t)), t.Y())
