@@ -3,6 +3,11 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1.01">`;*/
 let body = document.getElementById("body");
 body.innerHTML = `<style id ="style"></style>
+<header>
+<p>В эту игру можно играть как на телефоне, так и на компьютере</p>
+</header>
+
+<section>
 <div id="t">
   <div id="c">
     <div id="cc">
@@ -12,9 +17,21 @@ body.innerHTML = `<style id ="style"></style>
     </div>
   </div>
 </div>
+</section>
+<footer>
+<p>p.s. Эта игра работает на JavaScript-firework:mdh-gsw.js</p>
+</footer>
 `;
 let style = document.getElementById("style");
-style.innerHTML=`#t {
+style.innerHTML=`
+
+p {
+
+color: white;
+
+}
+
+#t {
     display: table
   }
   
