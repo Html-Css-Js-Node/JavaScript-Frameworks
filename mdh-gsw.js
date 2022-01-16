@@ -1287,7 +1287,7 @@ style.innerHTML=`#t {
   }
   class hw {
     constructor() {
-      G = this, U = new gx, V = new hs, G.eR(), G.S = 0, G.bZ = _E("stars wars"), G.c$ = _E("by Berlin A"), G.cm = _E("press enter to send a ship"), G.eU = G.cg = 50, G.cf = G.eY = 100, G.ci = 0, G.dl = 1, G.eZ = 0, G.cr = 1, G.hy = 1, G.ff = 1, G.ct = "#fff"
+      G = this, U = new gx, V = new hs, G.eR(), G.S = 0, G.bZ = _E("stars wars"), G.c$ = _E("power by JavaScript-framework"), G.cm = _E("press enter to send a ship"), G.eU = G.cg = 50, G.cf = G.eY = 100, G.ci = 0, G.dl = 1, G.eZ = 0, G.cr = 1, G.hy = 1, G.ff = 1, G.ct = "#fff"
     }
     bQ(t) {
       G.O && G.O.hh(), G.O = t, G.df = 20, G._l(), t && (t.hd = (t => G.bQ(t)), t.Y())
