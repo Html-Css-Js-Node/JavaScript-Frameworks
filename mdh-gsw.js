@@ -4,7 +4,7 @@
 let body = document.getElementById("body");
 body.innerHTML = `<style id ="style"></style>
 <header>
-<p>В эту игру можно играть как на телефоне, так и на компьютере</p>
+<p>В эту игру можно играть как на телефоне, так и на компьютере.Если играть на компьютере, то у вас откроются новые возможности:)</p>
 </header>
 
 <section>
@@ -19,7 +19,7 @@ body.innerHTML = `<style id ="style"></style>
 </div>
 </section>
 <footer>
-<p>p.s. Эта игра работает на JavaScript-firework:mdh-gsw.js</p>
+<p>p.s. Эта игра работает на JavaScript-firework: mdh-gsw.js</p>
 </footer>
 `;
 let style = document.getElementById("style");
