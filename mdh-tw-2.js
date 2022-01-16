@@ -1,6 +1,8 @@
 //JavaScript-framework
 /*Этот framework генерирует в html документе
  текущее время и погоду*/
+//Автор: Берлин Андрей
+// Дата: 13.01.2022
 
 
 let head = document.getElementById('head');
