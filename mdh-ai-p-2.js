@@ -63,7 +63,7 @@ section.innerHTML = ` <!-- partial:index.partial.html -->
     </div>
     <div class="human-bg">
         <div class="player"></div>
-        <!--div class="controls">
+        <div class="controls">
             <div class="midi-not-supported">
                 Press and hold a note or chord using the
                 <a href="https://camo.githubusercontent.com/29529110d639ed79a04752c036fe301fd15c961b/68747470733a2f2f7261772e6769746875622e636f6d2f6b796c65737465747a2f617564696f6b6579732f6d61737465722f696d616765732f617564696f6b6579732d6d617070696e672d726f7773322e6a7067"
@@ -104,15 +104,15 @@ section.innerHTML = ` <!-- partial:index.partial.html -->
                 </div>
 
             </div>
-            <p>A
+            <!--p>A
                 <a href="https://github.com/tensorflow/magenta/tree/master/magenta/models/improv_rnn" target="_blank">neural network</a> will arpeggiate around your chord.</p>
             <p>Using the
                 <a href="https://github.com/tensorflow/magenta/tree/master/magenta/models/improv_rnn">Improv RNN</a> (pretrained) model from
                 <a href="https://magenta.tensorflow.org/">Google Magenta</a>, and
                 <a href="https://goo.gl/magenta/js">Magenta.js</a> +
                 <a href="https://js.tensorflow.org/">TensorFlow.js</a> +
-                <a href="https://tonejs.github.io/">Tone.js</a>.</p>
-        </div-->
+                <a href="https://tonejs.github.io/">Tone.js</a>.</p-->
+        </div>
     </div>
     <div class="keyboard">
     </div>
