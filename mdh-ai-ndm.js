@@ -47,7 +47,7 @@ body.innerHTML = `<!-- partial:index.partial.html -->
       </div>
     </div>
   </div>
-  <!--div class="info">
+  <div class="info">
     <p class="webmidi-enabled" style="display: none;">
       Output:
       <select class="midi-output"></select>
@@ -60,7 +60,7 @@ body.innerHTML = `<!-- partial:index.partial.html -->
       MIDI clock input:
       <select class="midi-clock-input"></select>
     </p>
-    <p>This is an experimental drum machine powered by a deep neural network. To use it, define a seed pattern on the left,
+    <!--p>This is an experimental drum machine powered by a deep neural network. To use it, define a seed pattern on the left,
       and use the &ldquo;generate&rdquo; button. A neural network will dream up a continuation to your seed pattern.</p>
     <p>Using the
       <a href="https://github.com/tensorflow/magenta/tree/master/magenta/models/drums_rnn">Drums RNN</a> (pretrained) model from
@@ -69,8 +69,8 @@ body.innerHTML = `<!-- partial:index.partial.html -->
       <a href="https://js.tensorflow.org/">TensorFlow.js</a> +
       <a href="https://tonejs.github.io/">Tone.js</a>.</p>
     <p>A pen by
-      <a href="https://twitter.com/teropa">@teropa</a>.</p>
-  </div-->
+      <a href="https://twitter.com/teropa">@teropa</a>.</p-->
+  </div>
   
   
 
