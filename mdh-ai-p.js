@@ -36,7 +36,7 @@ section.innerHTML = `<div class="container">
 <div class="human-bg">
     <div class="player"></div>
     <div class="controls">
-        <div class="midi-not-supported">
+        <!--div class="midi-not-supported">
             Play and hold a melody or chord using the
             <a href="https://camo.githubusercontent.com/29529110d639ed79a04752c036fe301fd15c961b/68747470733a2f2f7261772e6769746875622e636f6d2f6b796c65737465747a2f617564696f6b6579732f6d61737465722f696d616765732f617564696f6b6579732d6d617070696e672d726f7773322e6a7067"
                 target="_blank">computer keyboard</a>, or with a MIDI controller on
@@ -61,7 +61,7 @@ section.innerHTML = `<div class="container">
             <a href="https://goo.gl/magenta/js">Magenta.js</a> +
             <a href="https://js.tensorflow.org/">TensorFlow.js</a> +
             <a href="https://tonejs.github.io/">Tone.js</a>.</p>
-    </div>
+    </div-->
 </div>
 <div class="keyboard">
 </div>
