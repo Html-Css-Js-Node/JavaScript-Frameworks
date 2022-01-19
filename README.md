@@ -1,4 +1,4 @@
-# Проект: JavaScript-framework. 
+# Проект: JavaScript-framework:JS-Modul-Driver-HTML
 ## На этой странице:
 1. Тема: Список JavaScript-frameworks;
 2. Автор: Берлин Андрей;
