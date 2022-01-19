@@ -1,6 +1,6 @@
-# Проект: JavaScript-framework:JS-Modul-Driver-HTML
+# Проект: JavaScript-framework:JS-Module-Driver-HTML
 ## На этой странице:
-1. Тема: Список JavaScript-frameworks;
+1. Тема: Список JavaScript-frameworks -JS-Module-Driver-HTML;
 2. Автор: Берлин Андрей;
 3. Дата проекта: 13.01.2022 г.;
 <p>P.S. Для всех желающих изучать веб-программирование, вам <a href="https://html-css-js-node.github.io/">cюда!</a></p>
