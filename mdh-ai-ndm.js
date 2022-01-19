@@ -47,7 +47,7 @@ body.innerHTML = `<!-- partial:index.partial.html -->
       </div>
     </div>
   </div>
-  <div class="info">
+  <!--div class="info">
     <p class="webmidi-enabled" style="display: none;">
       Output:
       <select class="midi-output"></select>
@@ -70,7 +70,7 @@ body.innerHTML = `<!-- partial:index.partial.html -->
       <a href="https://tonejs.github.io/">Tone.js</a>.</p>
     <p>A pen by
       <a href="https://twitter.com/teropa">@teropa</a>.</p>
-  </div>
+  </div-->
   
   
 
