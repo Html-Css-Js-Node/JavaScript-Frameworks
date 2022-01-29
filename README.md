@@ -1,6 +1,6 @@
-# Проект: JavaScript-framework:JS-Module-Driver-HTML
+# Проект NetWebAppJs:  JavaScript -Frameworks & -Library's
 ## На этой странице:
-1. Тема: Список JavaScript-frameworks -JS-Module-Driver-HTML;
+1. Тема: Список JavaScript -Frameworks & -Library's (.mdh.js);
 2. Автор: Берлин Андрей;
 3. Дата проекта: 13.01.2022 г.;
 <p>P.S. Для всех желающих изучать веб-программирование, вам <a href="https://html-css-js-node.github.io/">cюда!</a></p>
