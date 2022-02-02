@@ -29,7 +29,18 @@ header.innerHTML = `<h1>Время:</h1>
                 <a id="m">00</a> :
                 <a id="s">00</a>
                 <a id="mi">000</a>
-            </div>`;
+            </div>
+
+<iframe id="inlineFrameExample"
+    title="Inline Frame Example"
+    width="300"
+    height="200"
+    src="https://news.startpage.co.il/russian/?action=list&id=30&m=1&page=1">
+</iframe-->
+
+
+
+`;
     // START CLOCK SCRIPT
 
 
